@@ -37,6 +37,4 @@ weight = 1
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in <b>creative tree modeling</b>, <b>computer animation</b> and <b>sketch-based interactive modeling</b>. Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.</p>
